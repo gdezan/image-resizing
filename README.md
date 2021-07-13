@@ -10,3 +10,6 @@ Using the seam carving algorithm, we should receive as INPUT any images that req
 
 * Gabriel de Andrade Dezan - gabrieldezan@usp.br
 * Ivan Mateus de Lima Azevedo - ivanmateusla@usp.br
+
+## Presentation video
+The video of the presentation can be accessed [here](https://drive.google.com/file/d/1gdQrJZfyI-w99mQD5_b_GoJWFcXuMIqE/view?usp=sharing).
